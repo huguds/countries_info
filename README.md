@@ -1,4 +1,4 @@
-# Extração e Análise de Dados de todos os Países do Mundo
+# Extração e Análise de Dados de Países
 
 ## Visão Geral do Projeto
 
@@ -10,7 +10,7 @@ Os dados extraídos foram armazenados no Google BigQuery para análise posterior
 
 Foi realizado a criação de um DashBoard no Power BI para análise dos dados. Segue a imagem abaixo:
 
-![image](https://github.com/huguds/schools_data/assets/79457377/2860498a-7fdf-4f8a-ae94-396443a6fdbe)
+![image](https://github.com/huguds/countries_info/assets/79457377/cb386bfe-2ea6-40d7-a2ee-246088468107)
 
 ## Tecnologias Utilizadas
 
