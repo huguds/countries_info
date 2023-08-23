@@ -4,7 +4,7 @@
 
 Este projeto tem como objetivo extrair informações da base de dados dos Países ao redor do mundo [REST Countries ](https://restcountries.com/).
 
-![image](https://github.com/huguds/countries_info/assets/79457377/e4b54ed7-489c-4f92-8a87-218e03f3782d)
+![image](https://github.com/huguds/countries_info/assets/79457377/6c3b7baf-8449-44f1-bc3b-ce8c69e7622d)
 
 Os dados extraídos foram armazenados no Google BigQuery para análise posterior e exportados para o Google Sheets [Planilha de dados](https://docs.google.com/spreadsheets/d/e/2PACX-1vTnj2AA8cncJgcZ7b5DUtqrLeUHJ7hywOKTcZ9AggsBCTyU9511SjYRefM4QrLE-EGRH7XCvtxfZVk4/pubhtml?gid=1047864439&single=true)
 
